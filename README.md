@@ -23,6 +23,17 @@ The app will be available at `http://localhost:3000` in your browser.
 - React.js
 - mathjs (for evaluating expressions)
 
+## Screenshots
+
+Below are screenshots showcasing the app on load and while performing arithmetic operations.
+
+![Calculator App][on page load]
+![Calculator App][performing arithmatic operations]
+
 ## License
 
 This project is a simple educational build and is not intended for production use. Feel free to modify and enhance it as per your learning needs.
+
+
+[performing arithmatic operations]: src/assets/images/image.png
+[on page load]: src/assets/images/onPageLoad.png
