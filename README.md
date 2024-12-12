@@ -11,10 +11,22 @@ This is a simple calculator app built using React.js as part of a course project
 
 ## Installation
 
-1. Clone the repository: git clone <repository_url>
-2. Navigate to the project directory: cd calculator-app
-3. Install dependencies: npm install
-4. Run the app: npm start
+1. Clone the repository:
+   ```
+   git clone https://github.com/Sai-Karthik9113/XCalculator.git
+   ```
+2. Navigate to the project directory: 
+   ```
+   cd calculator-app
+   ```
+3. Install dependencies:
+   ```
+   npm install
+   ```
+4. Run the app:
+   ```
+   npm start
+   ```
 
 The app will be available at `http://localhost:3000` in your browser.
 
